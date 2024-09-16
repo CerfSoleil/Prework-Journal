@@ -14,6 +14,7 @@ Lastly, reviewed ways of making the environment Agile; which is to say welcoming
 I swapped over to using Google Chrome for the class, installed Screencastify, and signed up for Slack. Also installed Git Bash for command line execution.<br>
 pwd is print working directory, showhing which directory we're in<br>
 "cd downloads" is change directory | "cd .." moves up one directory<br>
+"ls" will show the files in that directory<br>
 "mkdir FILENAME" makes a directory, or folder<br>
 "touch FILENAME.FILEEXTENTION" makes a file<br>
 "start FILENAME.FILEEXTENTION" opens the file<br>
