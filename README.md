@@ -28,3 +28,12 @@ I went over version control and how it could help understand and avoid bugs that
 Learned how to navigate GitHub, check and make repositories, make forks, create pull requests, and merge branches.<br>
 **Ended on 2.3.8**<br><br>
 ## Monday, 16th September 2024
+Copied a repo from GitHub onto my local files.<br>
+"code ." will open the file in the CMD into VS Code<br>
+To create a new branch you need to:
+"git" will precede every statement to work in GitHub<br>
+"checkout" moves the working branch to the new one<br>
+"-b" creates a new branch<br>
+"feature/NAMEOFBRANCH" indicates it's a feature branch<br>
+Together, the code should be "git checkout -b feature/NAMEOFBRANCH"<br>
+"git status" checks to see the status of changed or untracked files that differentiate from the local directory and GitHub<br>
