@@ -38,3 +38,7 @@ To create a new branch you need to:
 "feature/NAMEOFBRANCH" indicates it's a feature branch<br>
 Together, the code should be "git checkout -b feature/NAMEOFBRANCH"<br>
 "git status" checks to see the status of changed or untracked files that differentiate from the local directory and GitHub<br>
+"git add -A" will add the modification in the current working branch to the staging area. "-A" indicates that we want to add all changes.<br>
+"git pull origin main" will recieve main or a branch's modifications into the local working area.<br>
+"git push origin BRANCH/NAMEOFBRANCH" will push the branch to GitHub in order for you to share or create a pull request.<br>
+**Ended on 2.4.6** Which will need to be reviewed. <br><br>
