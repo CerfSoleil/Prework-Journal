@@ -43,3 +43,8 @@ Together, the code should be "git checkout -b feature/NAMEOFBRANCH"<br>
 "git pull origin main" will recieve main or a branch's modifications into the local working area.<br>
 "git push origin BRANCH/NAMEOFBRANCH" will push the branch to GitHub in order for you to share or create a pull request.<br>
 **Ended on 2.4.6** Which will need to be reviewed. <br><br>
+## Wednesday, 18th September 2024
+Refreshed myself about elements in HTML<br>
+Learned the difference between header and body.<br>
+Set up the beginning of the Prework study guide and it's HTML framework to be turned in at the end of the prework.<br>
+**Ended on 3.1.7**<br><br>
