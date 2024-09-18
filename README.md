@@ -30,6 +30,7 @@ Learned how to navigate GitHub, check and make repositories, make forks, create 
 **Ended on 2.3.8**<br><br>
 ## Monday, 16th September 2024
 Copied a repo from GitHub onto my local files.<br>
+Using "git clone "SSH VALUE" once in the local directory you want it copied to.<br>
 "code ." will open the file in the CMD into VS Code<br>
 To create a new branch you need to:
 "git" will precede every statement to work in GitHub<br>
