@@ -48,3 +48,8 @@ Refreshed myself about elements in HTML<br>
 Learned the difference between header and body.<br>
 Set up the beginning of the Prework study guide and it's HTML framework to be turned in at the end of the prework.<br>
 **Ended on 3.1.7**<br><br>
+## Friday, 20th September 2024
+Learned how to connect an external CSS reference sheet with the working HTML document.<br>
+Was introduced to many of the elements of CSS code and how it works to set up style on the HTML document.<br>
+Learned how to designate sections and tie them with having specific styling using . and a reference word.<br>
+**Ended on 3.2.7**<br><br>
