@@ -8,9 +8,3 @@ This webpage was made as a part of an edX coding bootcamp. It was done as a firs
 Tutorials followed were provided by edX
 
 ## MIT License
-
----
-## How to Contribute
-
-## Tests
-No tests were conducted.
