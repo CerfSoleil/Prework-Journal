@@ -25,9 +25,16 @@ ul {
     padding-left:40px;
     font-size:20px;
 }
+ol {padding-left:40px;
+    font-size:20px;
+}
 p{
     text-align: center;
     font-size: 30px;
+}
+p2{
+    text-align: center;
+    font-size: 20px;
 }
 .card {
     width: 80%;
